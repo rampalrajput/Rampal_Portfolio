@@ -29,6 +29,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm run bulid",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -52,8 +54,6 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^8.57.1",
-    "eslint-config-react-app": "^7.0.1",
-    "eslint-plugin-flowtype": "^8.0.3"
+    "gh-pages": "^6.3.0"
   }
 }
