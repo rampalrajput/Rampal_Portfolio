@@ -1,0 +1,138 @@
+/* Default: Show sidenav-container for Mobile */
+.sidenav-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 1;
+    background-color: transparent;
+}
+
+/* Mobile View: Always show sidenav with tabs (Home, About, Projects) */
+@media screen and (max-width: 1199px) {
+    .sidenav-container {
+        display: flex; /* Always visible for mobile */
+        justify-content: flex-start; /* Align content at the top */
+        align-items: center;
+          /* Full height for mobile */
+        background-color: transparent; /* Transparent background by default */
+        padding: 10px; /* Add padding to avoid content touching edges */
+    }
+
+    /* Sidenav content: Center align all items */
+    .sidenav-content {
+        text-align: center; /* Center-align all items */
+        display: block; /* Ensure the tabs (Home, About, Projects) are shown */
+        width: 100%; /* Full width for mobile view */
+    }
+
+    /* Active Class: Center content and show specific tab */
+    .sidenav-content.active {
+        display: block; /* Show the content when active */
+    }
+
+    .sidenav-header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 15px 0; /* Add padding for spacing */
+    }
+
+    .sidenav-flex {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        padding: 0; /* Remove padding for mobile view */
+    }
+
+    /* Tabs styling */
+    .tab {
+        margin: 10px 0; /* Add margin between tabs */
+        cursor: pointer; /* Pointer cursor for tabs */
+        font-size: 18px; /* Increase font size for mobile */
+        padding: 10px;
+        width: 100%;
+        text-align: center;
+        transition: background-color 0.3s ease;
+    }
+
+    .tab:hover {
+        background-color: rgba(0, 0, 0, 0.1); /* Hover effect */
+    }
+
+    /* Active Tab Styling */
+    .tab.active {
+        background-color: rgba(0, 0, 0, 0.2); /* Highlight active tab */
+        color: white; /* Text color for active tab */
+    }
+}
+
+/* Desktop View: Always show the sidenav with normal layout */
+@media screen and (min-width: 1200px) {
+    .sidenav-container {
+        display: block;
+        width: 100%;
+        position: fixed;
+        height: 100vh;
+    }
+
+    .sidenav {
+        width: 300px;
+        height: 100vh;
+        overflow-x: hidden;
+        border-radius: 30px;
+    }
+
+    .sidenav-flex {
+        flex-direction: column;
+        height: 100%;
+        padding-top: 25px;
+        padding-left: 15px;
+    }
+
+    .sidenav-content {
+        display: block; /* Always display content for desktop */
+        padding-left: 15px;
+    }
+}
+
+/* Sidenav Common Styles */
+.sidenav-header {
+    align-items: center;
+    flex-direction: column;
+}
+
+.sidenav-responsive {
+    display: flex;
+    align-items: center;
+}
+
+.sidenav-icon {
+    cursor: pointer;
+}
+
+/* Drawer Styles */
+.drawer-content {
+    max-width: 300px;
+}
+
+.drawer-body {
+    padding: 0;
+    overflow: hidden;
+}
+
+.drawer-box {
+    width: 300px;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+/* GitHub Buttons */
+.github-buttons {
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
