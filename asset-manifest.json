@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/rampalrajput/Portfolio/static/css/main.cb7ffca5.css",
+    "main.js": "/rampalrajput/Portfolio/static/js/main.96d2f0e3.js",
+    "static/js/453.75cd97ce.chunk.js": "/rampalrajput/Portfolio/static/js/453.75cd97ce.chunk.js",
+    "static/media/sidenavDark.png": "/rampalrajput/Portfolio/static/media/sidenavDark.738e0ea88ccf1843fbaf.png",
+    "static/media/aboutMePhoto.jpg": "/rampalrajput/Portfolio/static/media/aboutMePhoto.f2266901293376153cf9.jpg",
+    "static/media/sidenavLight.png": "/rampalrajput/Portfolio/static/media/sidenavLight.f2266901293376153cf9.png",
+    "static/media/dashboard.gif": "/rampalrajput/Portfolio/static/media/dashboard.7835ddbfd9d23e02b60c.gif",
+    "static/media/contact.png": "/rampalrajput/Portfolio/static/media/contact.411aa947ff95059dd5d7.png",
+    "static/media/contact1.png": "/rampalrajput/Portfolio/static/media/contact1.c6199ca74f4e653131db.png",
+    "static/media/DMSans-VariableFont_opsz,wght.woff2": "/rampalrajput/Portfolio/static/media/DMSans-VariableFont_opsz,wght.920315b0779497c02dfe.woff2",
+    "static/media/index.cjs": "/rampalrajput/Portfolio/static/media/index.a02930182e698c6507fb.cjs",
+    "static/media/LobsterTwo-Regular.woff2": "/rampalrajput/Portfolio/static/media/LobsterTwo-Regular.cdb82f2538895fbe5b3b.woff2",
+    "static/media/steg_500x300.jpeg": "/rampalrajput/Portfolio/static/media/steg_500x300.8e2711a8c0bf4f8ebf01.jpeg",
+    "static/media/mt_500x300.jpg": "/rampalrajput/Portfolio/static/media/mt_500x300.3a0dd3fac67fc13db601.jpg",
+    "static/media/nft_blockchain_500x300.jpg": "/rampalrajput/Portfolio/static/media/nft_blockchain_500x300.d78d5478bb9054e2ae01.jpg",
+    "static/media/lets_collab_img3.jpg": "/rampalrajput/Portfolio/static/media/lets_collab_img3.6568021a3aba4703343b.jpg",
+    "static/media/eeg_500x300.jpg": "/rampalrajput/Portfolio/static/media/eeg_500x300.d4b4d5a3de73785c13b1.jpg",
+    "static/media/bloggers.jpg": "/rampalrajput/Portfolio/static/media/bloggers.41def27fcc8387731c1c.jpg",
+    "static/media/medhub_500x300.jpg": "/rampalrajput/Portfolio/static/media/medhub_500x300.ab6f75ad43465c2f35ea.jpg",
+    "static/media/LilitaOne-Regular.woff2": "/rampalrajput/Portfolio/static/media/LilitaOne-Regular.43e3adb2949afbee489c.woff2",
+    "static/media/mongodb.svg": "/rampalrajput/Portfolio/static/media/mongodb.219f7ae3c9abd445d6b82c941ad73702.svg",
+    "static/media/react.svg": "/rampalrajput/Portfolio/static/media/react.cc8a3326a9a43518b033b383390f00d0.svg",
+    "static/media/nodejs.svg": "/rampalrajput/Portfolio/static/media/nodejs.41a0e1af4b72f61e8496e4877da39db3.svg",
+    "static/media/express.svg": "/rampalrajput/Portfolio/static/media/express.1862ae411f8c1bde13179f1713fd3d06.svg",
+    "static/media/git.svg": "/rampalrajput/Portfolio/static/media/git.ebf48408b5ae3138009c3d44ff956f56.svg",
+    "static/media/html.svg": "/rampalrajput/Portfolio/static/media/html.2b36cd2143b950115530edfde54f21ac.svg",
+    "static/media/javascript.svg": "/rampalrajput/Portfolio/static/media/javascript.e7363ab96f901afdeb86963dd6a44ce2.svg",
+    "static/media/css3.svg": "/rampalrajput/Portfolio/static/media/css3.d51e893b4eecd56b38b570e498bd1712.svg",
+    "index.html": "/rampalrajput/Portfolio/index.html",
+    "main.cb7ffca5.css.map": "/rampalrajput/Portfolio/static/css/main.cb7ffca5.css.map",
+    "main.96d2f0e3.js.map": "/rampalrajput/Portfolio/static/js/main.96d2f0e3.js.map",
+    "453.75cd97ce.chunk.js.map": "/rampalrajput/Portfolio/static/js/453.75cd97ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7ffca5.css",
+    "static/js/main.96d2f0e3.js"
+  ]
+}
