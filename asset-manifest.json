@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rampal_Portfolio/static/css/main.49125662.css",
-    "main.js": "/Rampal_Portfolio/static/js/main.10aaf85c.js",
+    "main.js": "/Rampal_Portfolio/static/js/main.a03a33cd.js",
     "static/js/453.75cd97ce.chunk.js": "/Rampal_Portfolio/static/js/453.75cd97ce.chunk.js",
     "static/media/sidenavDark.png": "/Rampal_Portfolio/static/media/sidenavDark.738e0ea88ccf1843fbaf.png",
     "static/media/aboutMePhoto.jpg": "/Rampal_Portfolio/static/media/aboutMePhoto.f2266901293376153cf9.jpg",
@@ -30,11 +30,11 @@
     "static/media/css3.svg": "/Rampal_Portfolio/static/media/css3.d51e893b4eecd56b38b570e498bd1712.svg",
     "index.html": "/Rampal_Portfolio/index.html",
     "main.49125662.css.map": "/Rampal_Portfolio/static/css/main.49125662.css.map",
-    "main.10aaf85c.js.map": "/Rampal_Portfolio/static/js/main.10aaf85c.js.map",
+    "main.a03a33cd.js.map": "/Rampal_Portfolio/static/js/main.a03a33cd.js.map",
     "453.75cd97ce.chunk.js.map": "/Rampal_Portfolio/static/js/453.75cd97ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49125662.css",
-    "static/js/main.10aaf85c.js"
+    "static/js/main.a03a33cd.js"
   ]
 }
