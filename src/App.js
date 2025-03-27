@@ -4,7 +4,7 @@ import Footer from "./components/Footer/Footer";
 import routes from "./routes.js";
 import { Box, useColorMode } from "@chakra-ui/react";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes,
   Navigate
