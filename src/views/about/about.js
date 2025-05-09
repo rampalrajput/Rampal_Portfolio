@@ -197,11 +197,11 @@ export default function About() {
           </Text>
         </Flex>
         <Box display="flex" justifyContent="center" alignItems="center">
-          <GitHubCalendar
+          {/* <GitHubCalendar
             username="rampal"
             colorScheme={colorMode === "light" ? "light" : "dark"}
             year="last"
-          />
+          /> */}
         </Box>
         <Flex justifyContent="center" alignItems="center" mt="20px">
           <Skeleton
